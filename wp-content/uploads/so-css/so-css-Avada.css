@@ -1,0 +1,32 @@
+.fusion-layout-column.fusion-blend-mode .fusion-column-wrapper {
+  border-width: 0px;
+  border-style: hidden;
+}
+
+#wrapper .post-content h2 {
+  padding: 10px;
+}
+
+.give-donation-level-btn.give-btn.give-btn-level-0.give-default-level {
+  padding: 8px;
+  color: #FFFFFF;
+  background-color: #FF004E;
+}
+
+form[id*=give-form] .give-donation-amount {
+  padding: 8px;
+}
+
+#give-form-2499-1.give-form.give-form-2499.give-form-type-multi.float-labels-enabled.give-fl-form.give-fl-style-give {
+  padding: 16px;
+}
+
+[id*=give-form].give-display-reveal .give-btn {
+  background-color: #ff004e;
+  color: #ffffff;
+}
+
+.give-donation-level-btn.give-btn.give-btn-level-custom {
+  color: #FFFFFF;
+  background-color: #756d6d;
+}
